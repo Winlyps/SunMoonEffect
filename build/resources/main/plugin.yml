@@ -1,0 +1,5 @@
+name: SunMoonEffect
+version: '1.0-SNAPSHOT'
+main: winlyps.sunMoonEffect.SunMoonEffect
+api-version: '1.16'
+authors: [ Winlyps ]
